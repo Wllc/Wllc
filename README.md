@@ -1,4 +1,4 @@
-### Oie, tudo bem? Eu sou o Wallace 😄
+### Oie, tudo bem? Eu sou o Wallace, seja bem-vindo! 😄
 
 - 🖥️ Aluno de ADS - Análise e Desenvolvimento de Sistemas (3/6) 
 
