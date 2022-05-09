@@ -1,5 +1,7 @@
 ### Oie, tudo bem? Eu sou o Wallace 😄
 
+- 🖥️ Aluno de ADS (Análise e Desenvolvimento de Sistemas 3/6) 
+
 <div>
   <a href="https://github.com/wllc">  
     <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=wllc&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
