@@ -1,9 +1,11 @@
 ### Oie, tudo bem? Eu sou o Wallace, seja bem-vindo! 😄
 
+- 🖥️ Aluno de ADS - Análise e Desenvolvimento de Sistemas (3/6) 
+
 <div>
   <a href="https://github.com/wllc">  
-    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=wllc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wllc&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=wllc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wllc&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
