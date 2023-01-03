@@ -1,6 +1,6 @@
 ### Oie, tudo bem? Eu sou o Wallace, seja bem-vindo! 😄
 
-- 🖥️ Aluno de ADS - Análise e Desenvolvimento de Sistemas (3/6) 
+- 🖥️ Aluno de ADS - Análise e Desenvolvimento de Sistemas (5/6) 
 
 <div>
   <a href="https://github.com/wllc">  
