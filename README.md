@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&color=1A1B27&background=1A1B2700&multiline=true&width=500&height=100&lines=Opa%2C+tudo+bem%3F+;Meu+nome+%C3%A9+Wallace%2C+seja+bem-vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=1A1B27&background=1A1B2700&multiline=true&width=500&height=100&lines=Opa%2C+tudo+bem%3F+;Meu+nome+%C3%A9+Wallace%2C+seja+bem-vindo!)](https://git.io/typing-svg)
 
 - 🖥️ Aluno de ADS - Análise e Desenvolvimento de Sistemas (5/6) 
 
