@@ -1,5 +1,5 @@
 ### Oie, tudo bem? Eu sou o Wallace, seja bem-vindo! 😄
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+tudo+bem?;Eu+sou+o+Wallace,+seja+bem-vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&lines=Olá,+tudo+bem?;Eu+sou+o+Wallace,+seja+bem-vindo!)](https://git.io/typing-svg)
 
 - 🖥️ Aluno de ADS - Análise e Desenvolvimento de Sistemas (5/6) 
 
