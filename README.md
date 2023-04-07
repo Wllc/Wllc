@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1A1B27&background=1A1B2700&multiline=true&width=435&lines=Ol%C3%A1%2C+tudo+bem%3F+;Meu+nome+%C3%A9+Wallace%2C+seja+bem-vindo!)](https://git.io/typing-svg)
-
+</a>
 - 🖥️ Aluno de ADS - Análise e Desenvolvimento de Sistemas (5/6) 
 
 <div>
