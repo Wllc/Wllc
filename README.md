@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=1A1B27&background=1A1B2700&multiline=true&width=435&height=60&lines=Opa%2C+tudo+bem%3F+;Meu+nome+%C3%A9+Wallace%2C+seja+bem-vindo!)](https://git.io/typing-svg)
 
-- 🖥️ Aluno de ADS - Análise e Desenvolvimento de Sistemas (6/6) 
-
 <div>
   <a href="https://github.com/wllc">  
     <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=wllc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
